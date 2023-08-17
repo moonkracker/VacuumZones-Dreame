@@ -1,11 +1,11 @@
 {
-  "domain": "vacuum_zones",
-  "name": "Vacuum Zones",
-  "documentation": "https://github.com/AlexxIT/VacuumZones",
-  "issue_tracker": "https://github.com/AlexxIT/VacuumZones/issues",
-  "codeowners": ["@AlexxIT"],
+  "domain": "vacuum_zones_dreame",
+  "name": "Vacuum Zones Dreame",
+  "documentation": "https://github.com/moonkracker/VacuumZones-Dreame",
+  "issue_tracker": "https://github.com/moonkracker/VacuumZones-Dreame/issues",
+  "codeowners": ["@moonkracker"],
   "dependencies": [],
   "requirements": [],
-  "version": "1.0.0",
+  "version": "0.0.1",
   "iot_class": "local_push"
 }
