@@ -84,7 +84,7 @@ class DreameVacuum(StateVacuumEntity):
         if self.script:
             await self.script.async_run()
 
-        if "room" in self.config:
+        if "rooms" in self.config:
             await self.hass.services.async_call(
                 "dreame_vacuum",
                 "vacuum_clean_segment",
